@@ -1,4 +1,4 @@
-# 🏥 Analisis Kinerja Bisnis PT Kimia Farma Tbk (2020-2023)
+# 🏥 Analisis Performa Bisnis PT Kimia Farma Tbk (2020-2023)
 # Project-Based Virtual Internship: Big Data Analytics by Rakamin Academy x Kimia Farma
 
 ![Kimia Farma Banner](Cover.png) 
@@ -20,8 +20,8 @@ Analisis ini didasarkan pada integrasi 4 tabel relasional utama:
 3.  `kf_kantor_cabang`: Memuat detail demografis (kota/provinsi) dan rating fisik fasilitas cabang.
 4.  `kf_product`: Memuat master produk, kategori, dan harga dasar.
 
+*(Catatan: Dataset terbatas dimiliki oleh peserta saja, tidak disebarluaskan karena hak milik Kimia Farma).*
 ---
-
 ## 🚀 Dokumentasi Langkah-Langkah Pengerjaan
 
 ### Tahap 1: Data Importing
@@ -42,7 +42,7 @@ Hasil *query* disimpan sebagai *View* di BigQuery dan dihubungkan secara *live* 
 ---
 
 ## 📊 Akses Dashboard & Video Penjelasan
-*   **🔗 Link Dashboard:** [(https://datastudio.google.com/reporting/6449fff4-70b1-4e78-9d22-40e664dc1b1f)]
+*   **🔗 Link Dashboard:** (https://datastudio.google.com/reporting/6449fff4-70b1-4e78-9d22-40e664dc1b1f)
 *   **🎥 Link Video Presentasi:** [Link Presentasi YouTube]
 
 ---
